@@ -1,0 +1,8 @@
+En el repositorio existe un archivo llamado texto.txt, y también se los dejé en el aula virtual, aunque pueden utilizar cualquier archivo de texto.
+Leer un archivo de texto y con el texto del archivo se pide:
+- Crear una lista que contenga todas las palabras del texto.
+- Contar la frecuencia de aparición de cada palabra en el texto.
+- Encontrar la palabra más frecuente y la palabra menos frecuente en el texto.
+- Encuentra la longitud promedio de las palabras en el texto.
+- Imprimir las estadísticas generadas.
+Seguir buenas prácticas de desarrollo: utilizar funciones para modularizar el código y comentar/documentar el código
