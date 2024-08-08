@@ -5,6 +5,6 @@ Leer un archivo de texto y con el texto del archivo se pide:
 - Encontrar la palabra más frecuente y la palabra menos frecuente en el texto.
 - Encuentra la longitud promedio de las palabras en el texto.
 - Imprimir las estadísticas generadas.
-Seguir buenas prácticas de desarrollo: utilizar funciones para modularizar el código y comentar/documentar el código
+Seguir buenas prácticas de desarrollo: modularizar y comentar/documentar el código
 
 CREAR un archivo con la solucion en una rama con su mobre y apellido
